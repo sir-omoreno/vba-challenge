@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub TestScript_Please_Work()
     
     ' Loopping through sheets first
